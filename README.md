@@ -77,7 +77,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos previos en tu s
 Para comenzar, clona este repositorio en tu máquina local usando Git:
 
 ```shell
-git clone https://github.com/cidenet/hf-raffle-platform-backend.git
+git clone https://github.com/saulolo/MyTiim.git
 ```
 
 **Nota:**  Asegúrate de que tu sistema tenga configuradas las variables de entorno JAVA_HOME y PATH para que apunten a tu instalación de JDK.
