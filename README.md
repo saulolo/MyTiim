@@ -3,6 +3,10 @@
 _CIDENET_   
 _Edición: 2024_
 
+<img src="https://github.com/saulolo/MyTiim/blob/20162e7f5c5cb3c17f138399a5f0129e48ae88d9/Portada.png" width="300px" 
+alt="Portada de la App">
+
+
 
 ## Tabla de Contenidos 📚
 
